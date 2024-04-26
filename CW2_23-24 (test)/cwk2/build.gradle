@@ -1,5 +1,4 @@
 // Build script for COMP1721 Coursework 2
-
 plugins {
   id 'java'
   id 'jvm-test-suite'
